@@ -1,0 +1,2 @@
+This is file 1 in Feature branch
+Updating through remote for merge
